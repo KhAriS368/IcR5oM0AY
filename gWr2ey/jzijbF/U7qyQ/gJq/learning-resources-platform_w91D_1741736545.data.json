@@ -25,7 +25,6 @@
 // 		"no-use-before-define": [
 // 			"error",
 // 			{"functions": false, "classes": false, "variables": true}
-// 		],
 // 		"prefer-template": 2,
 // 		"require-yield": 0
 // 	}
