@@ -10,7 +10,6 @@ function [tout, ave_t, var_t, var_t_ci, n_t, nsegout] = runavevar(tseg, t, x, al
 %     tout = zeros(1, np);
 %     ave_t = zeros(1, np);
 %     var_t = zeros(1, np);
-%     var_t_ci = zeros(2, np);
 %     n_t = zeros(1, np);
 
     while true
